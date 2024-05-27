@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="car_sun_blocker_main.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-113.13709"
+     inkscape:cy="588.31284"
+     inkscape:window-width="1450"
+     inkscape:window-height="1020"
+     inkscape:window-x="492"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="255.14078,59.539463"
+       end_point="255.14078,130.27095"
+       center_point="255.14078,94.905208"
+       id="path-effect5722"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="vertical"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="210.70395,59.539463"
+       end_point="210.70395,76.539463"
+       center_point="210.70395,68.039463"
+       id="path-effect5720"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="horizontal"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="84.478917,122.12929"
+       end_point="257.187,2.6641503"
+       center_point="170.83296,62.396718"
+       id="path-effect5697"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="horizontal"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="47.891117,226.61572"
+       end_point="197.89112,276.61572"
+       center_point="197.89112,226.61572"
+       id="path-effect5693"
+       is_visible="true"
+       lpeversion="1.2"
+       lpesatellites=""
+       mode="horizontal"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false"
+       link_styles="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f43b3b;fill-opacity:0.35743;stroke-width:1.84988;stroke-linecap:round"
+       id="rect234-2-9-4"
+       width="15"
+       height="195.60001"
+       x="269.65781"
+       y="-154.36887"
+       ry="7.4233389"
+       rx="2.5999081"
+       transform="rotate(56.765778)" />
+    <rect
+       style="fill:#000000;stroke-width:1.84988;stroke-linecap:round"
+       id="rect234-2"
+       width="15"
+       height="195.60001"
+       x="88.214317"
+       y="128.89139"
+       ry="7.4233389"
+       rx="2.5999081" />
+    <rect
+       style="fill:#000000;stroke-width:1.84988;stroke-linecap:round"
+       id="rect234-2-99"
+       width="15"
+       height="195.60001"
+       x="65.524994"
+       y="128.68332"
+       ry="7.4233389"
+       rx="2.5999081" />
+    <path
+       id="rect234-28"
+       style="fill:#000000;stroke-width:4.18271;stroke-linecap:round"
+       d="M 133.34742 151.07398 C 128.84514 151.07398 125.22026 154.89066 125.22026 159.6316 L 125.22026 242.51595 C 125.22026 247.25689 128.84514 251.07408 133.34742 251.07408 L 267.09377 251.07408 C 271.59605 251.07408 275.22041 247.25689 275.22041 242.51595 L 275.22041 159.6316 C 275.22041 154.89066 271.59605 151.07398 267.09377 151.07398 L 133.34742 151.07398 z M 149.81721 156.78164 C 149.84854 156.77983 149.87571 156.78582 149.89731 156.80076 L 155.03033 160.35145 C 155.20312 160.47097 154.9731 161.10093 154.5146 161.76377 L 146.49907 173.35221 C 146.04057 174.01505 145.53188 174.45255 145.35909 174.33303 L 140.22607 170.78234 C 140.05328 170.66282 140.2833 170.03286 140.7418 169.37002 L 148.75785 157.78158 C 149.15903 157.2016 149.59791 156.79436 149.81721 156.78164 z M 250.18266 156.78164 C 250.40196 156.79435 250.84136 157.2016 251.24255 157.78158 L 259.25808 169.37002 C 259.71657 170.03286 259.94659 170.66281 259.77381 170.78234 L 254.64079 174.33303 C 254.468 174.45256 253.95982 174.01505 253.50132 173.35221 L 245.48527 161.76377 C 245.02678 161.10093 244.79676 160.47099 244.96954 160.35145 L 250.10256 156.80076 C 250.12416 156.78582 250.15133 156.77983 250.18266 156.78164 z M 145.43918 225.64773 C 145.65849 225.66043 146.09789 226.06768 146.49907 226.64766 L 154.5146 238.2361 C 154.97309 238.89894 155.20311 239.52889 155.03033 239.64842 L 149.89731 243.19911 C 149.72452 243.31864 149.21635 242.88113 148.75785 242.21829 L 140.7418 230.62985 C 140.2833 229.96702 140.05328 229.33758 140.22607 229.21805 L 145.35909 225.66736 C 145.38069 225.65242 145.40786 225.64591 145.43918 225.64773 z M 254.56069 225.64773 C 254.59202 225.64591 254.61919 225.65242 254.64079 225.66736 L 259.77381 229.21805 C 259.94661 229.33758 259.71657 229.96701 259.25808 230.62985 L 251.24255 242.21829 C 250.78405 242.88113 250.27536 243.31864 250.10256 243.19911 L 244.96954 239.64842 C 244.79675 239.5289 245.02678 238.89894 245.48527 238.2361 L 253.50132 226.64766 C 253.90251 226.06768 254.34139 225.66044 254.56069 225.64773 z " />
+    <rect
+       style="fill:#f43b3b;fill-opacity:0.35743;stroke-width:1.84988;stroke-linecap:round"
+       id="rect234-2-9-9-2"
+       width="15"
+       height="195.60001"
+       x="49.407169"
+       y="-374.38092"
+       ry="7.4233389"
+       rx="2.5999081"
+       transform="rotate(123.40061)" />
+  </g>
+</svg>

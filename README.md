@@ -1,3 +1,14 @@
+# Design 1 (Commit: a7ae7d1d62f600c032e3408b9306f1db0db2ba78)
+
+Pros:
+- Did cut out well
+- The black window cling seemed to handle okay
+
+Cons:
+- The corners fold in, the math for design 1 didn't fully work
+- The peel off/on was hard
+- Getting the cling to go on smoothly and quickly was not ideal.
+
 # Math
 
 ((1/4*c^2) + (n^2))/(2n) = r

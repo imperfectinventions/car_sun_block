@@ -1,3 +1,15 @@
+# Design 2 (Commit: b0d6043b78d63c9f1fbc64f3df2b890bc0833a25)
+
+Pros:
+- Did cut well and fast
+- Peeled off well and laid much more flat with a quick rolling motion of my wrist.
+
+Cons:
+- Multi pieces
+- The vinyl piece was thin and broke when weeding
+- The strap is so long that the ends stick to the window sometimes
+- The strap feels like it'll break off. Not sure if that's a problem or not.
+
 # Design 1 (Commit: a7ae7d1d62f600c032e3408b9306f1db0db2ba78)
 
 Pros:

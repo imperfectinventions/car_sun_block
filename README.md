@@ -1,3 +1,11 @@
+# Design Experiments with New Material (Commit: 5db087a183cfb1a76abdf685e50ab6e04ff7c582)
+New material: https://www.amazon.com/dp/B073TVRQ5D?th=1
+
+Tried three takes:
+1. Having solely the new vinyl with the older shape and older vinyl covers. Handle is cricut vinyl. Take A shapes.
+2. Have the new vinyl with the vinyl light cover pieces covered in low tack adhesive (https://www.amazon.com/3M-Spray-Artists-Adhesive-MMM6065/dp/B00006IFBF/ref=sr_1_9?keywords=low+tack+adhesive). Take A shapes.
+3. Have the new vinyl with the non-sprayed vinyl light cover pieces and the cricut vinyl underneath to help with better adhesion. One specific weird shape (to be iterated on in next commit). Take B shapes.
+
 # Design 3/4 (Commit: ceebccc8e51e03b29c95d98af19cea03b6045ae0)
 
 Pros:

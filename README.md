@@ -1,3 +1,8 @@
+# Design Experiments 2 (Commit:  94480e3f465199bb50ac5fbfaebfc80805b37aed)
+Tried:
+1. Adding more to the combo vinyl setup (take B) to try and see if more circut vinyl = more stickiness.
+2. Added support to the take A design because of when it gets hot, the new vinyl does not stay rigid, like the cricut design before it.
+
 # Design Experiments with New Material (Commit: 5db087a183cfb1a76abdf685e50ab6e04ff7c582)
 New material: https://www.amazon.com/dp/B073TVRQ5D?th=1
 
